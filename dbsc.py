@@ -50,7 +50,7 @@ _ShowProgress=True
 # Show help
 #----------------------------------------------------------------------------------------------------------------------
 def ShowHelp():
-  print("Databricks schema compare tool - v1.0 - Diego Marin 2023")
+  print("Databricks schema compare tool - v1.0 - Diego Marin 2025")
   print("")
   print("Usage: python dbsc.py <source> <target> [--filter:<pattern>] [--sep] [--raw] [--np]")
   print("       python dbsc.py --dump:<source> [--filter:<pattern>] [--np]")
